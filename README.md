@@ -38,7 +38,7 @@
 | **GitHub Desktop** | โปรแกรม GUI จัดการ Git แบบง่าย | [desktop.github.com](https://desktop.github.com) |
 | **Code Editor** | แนะนำ Visual Studio Code | [code.visualstudio.com](https://code.visualstudio.com) |
 
-*(อ่านรายละเอียดการเตรียมตัวเพิ่มเติมได้ในเอกสาร `docs/01-prerequisites.md`)*
+*(อ่านรายละเอียดการเตรียมตัวเพิ่มเติมได้ในเอกสาร [Planintext/Markdown docs/01-prerequisites.md](Planintext/Markdown%20docs/01-prerequisites.md))*
 
 ---
 
@@ -54,14 +54,14 @@
 
 ## 🚀 ขั้นตอนการเริ่มต้นใช้งาน (Getting Started)
 
-ศึกษาบทเรียนตามลำดับไฟล์ในโฟลเดอร์ `docs/` ดังนี้:
+ศึกษาบทเรียนตามลำดับไฟล์ในโฟลเดอร์ `Planintext/Markdown docs/` ดังนี้:
 
-* 📑 **[บทที่ 1: ข้อกำหนดเบื้องต้น](docs/01-prerequisites.md)** - การเตรียมเครื่องมือ บัญชี และซอฟต์แวร์
-* 📑 **[บทที่ 2: ขั้นตอนการติดตั้ง](docs/02-installation.md)** - การติดตั้งและการ Sign In เข้าใช้งาน
-* 📑 **[บทที่ 3: พื้นฐาน Workflow](docs/03-basic-workflow.md)** - ขั้นตอน Clone, Edit, Commit, Push, Pull
-* 📑 **[บทที่ 4: Branch & Pull Request](docs/04-branch-and-pr.md)** - การทำงานเป็นทีมด้วย Branch และ PR
-* 📑 **[บทที่ 5: การแก้ปัญหาทั่วไป](docs/05-troubleshooting.md)** - วิธีแก้ปัญหา Authentication & Merge Conflict
-* 📑 **[บทที่ 6: GitHub Pages](docs/06-github-pages.md)** - แปลงเอกสารบทเรียนให้เป็นหน้าเว็บไซต์อ่านง่าย
+* 📑 **[บทที่ 1: ข้อกำหนดเบื้องต้น](Planintext/Markdown%20docs/01-prerequisites.md)** - การเตรียมเครื่องมือ บัญชี และซอฟต์แวร์
+* 📑 **[บทที่ 2: ขั้นตอนการติดตั้ง](Planintext/Markdown%20docs/02-installation.md)** - การติดตั้งและการ Sign In เข้าใช้งาน
+* 📑 **[บทที่ 3: พื้นฐาน Workflow](Planintext/Markdown%20docs/03-basic-workflow.md)** - ขั้นตอน Clone, Edit, Commit, Push, Pull
+* 📑 **[บทที่ 4: Branch & Pull Request](Planintext/Markdown%20docs/04-branch-and-pr.md)** - การทำงานเป็นทีมด้วย Branch และ PR
+* 📑 **[บทที่ 5: การแก้ปัญหาทั่วไป](Planintext/Markdown%20docs/05-troubleshooting.md)** - วิธีแก้ปัญหา Authentication & Merge Conflict
+* 📑 **[บทที่ 6: GitHub Pages](Planintext/Markdown%20docs/06-github-pages.md)** - แปลงเอกสารบทเรียนให้เป็นหน้าเว็บไซต์อ่านง่าย
 
 ---
 
@@ -79,19 +79,19 @@
   1. กดปุ่ม **Fetch origin** และ **Pull origin** เพื่อดึงไฟล์ล่าสุดลงมาที่เครื่องก่อนเสมอ
   2. หากพบปัญหา **Merge Conflict** ให้เปิดไฟล์ด้วย VS Code เลือกจุดที่ต้องการเก็บไว้ บันทึกไฟล์ แล้ว Commit/Push อีกครั้ง
 
-*(อ่านคู่มือการแก้ไขปัญหาอย่างละเอียดได้ใน `docs/05-troubleshooting.md`)*
+*(อ่านคู่มือการแก้ไขปัญหาอย่างละเอียดได้ใน [Planintext/Markdown docs/05-troubleshooting.md](Planintext/Markdown%20docs/05-troubleshooting.md))*
 
 ---
 
 ## 🌐 การเปิดใช้งานหน้าเว็บด้วย GitHub Pages (Optional)
 
-คุณสามารถแปลงเอกสารบทเรียนในโฟลเดอร์ `docs/` ให้กลายเป็นหน้าเว็บไซต์อ่านออนไลน์ได้ฟรี:
+คุณสามารถแปลงเอกสารบทเรียนในโฟลเดอร์นี้ ให้กลายเป็นหน้าเว็บไซต์อ่านออนไลน์ได้ฟรี:
 
-1. ไปที่ Repository ของคุณบน GitHub (`https://github.com/NoMercyTH/DESKTOP-TUTORIAL.`)
+1. ไปที่ Repository ของคุณบน GitHub ([DESKTOP-TUTORIAL.](https://github.com/NoMercyTH/DESKTOP-TUTORIAL.))
 2. คลิกแถบ **Settings** (เมนูด้านบน) ➔ เมนูด้านซ้ายเลือก **Pages**
 3. ในส่วน **Build and deployment**:
    * **Source:** เลือก `Deploy from a branch`
-   * **Branch:** เลือก `main` และเปลี่ยนโฟลเดอร์จาก `/ (root)` เป็น **`/docs`**
+   * **Branch:** เลือก `main` และเลือกโฟลเดอร์ตำแหน่งที่เก็บเอกสารของคุณ
 4. กด **Save** แล้วรอประมวลผลประมาณ 1–2 นาที คุณจะได้ URL เว็บไซต์สำหรับเปิดอ่านคู่มือได้ทันที
 
 ---
