@@ -87,7 +87,7 @@
 
 คุณสามารถแปลงเอกสารบทเรียนในโฟลเดอร์ `docs/` ให้กลายเป็นหน้าเว็บไซต์อ่านออนไลน์ได้ฟรี:
 
-1. ไปที่ Repository ของคุณบน GitHub (`https://github.com/NoMercyTH/desktop-tutorial`)
+1. ไปที่ Repository ของคุณบน GitHub (`https://github.com/NoMercyTH/DESKTOP-TUTORIAL.`)
 2. คลิกแถบ **Settings** (เมนูด้านบน) ➔ เมนูด้านซ้ายเลือก **Pages**
 3. ในส่วน **Build and deployment**:
    * **Source:** เลือก `Deploy from a branch`
