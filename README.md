@@ -32,15 +32,14 @@
 * ความเข้าใจเบื้องต้นเกี่ยวกับการใช้งานอินเทอร์เน็ตและ Web Browser
 
 ### 2. เครื่องมือและซอฟต์แวร์ที่ต้องเตรียม
+
 | เครื่องมือ | รายละเอียด | ลิงก์ดาวน์โหลด / สมัคร |
 |---|---|---|
-| **GitHub Account** | บัญชีสำหรับจัดเก็บคลาวด์ Repository | [github.com](https://github.com) |
-| **GitHub Desktop** | โปรแกรม GUI จัดการ Git แบบง่าย | [desktop.github.com](https://desktop.github.com) |
-| **Code Editor** | แนะนำ Visual Studio Code | [code.visualstudio.com](https://code.visualstudio.com) |
+| **GitHub Account** | บัญชีสำหรับจัดเก็บคลาวด์ Repository | [github.com] |
+| **GitHub Desktop** | โปรแกรม GUI จัดการ Git แบบง่าย | [desktop.github.com] |
+| **Code Editor** | แนะนำ Visual Studio Code | [code.visualstudio.com] |
 
-*(อ่านรายละเอียดการเตรียมตัวเพิ่มเติมได้ในเอกสาร [Planintext/Markdown docs/01-prerequisites.md](Planintext/Markdown%20docs/01-prerequisites.md))*
-
----
+*(อ่านรายละเอียดการเตรียมตัวเพิ่มเติมได้ในเอกสาร [Planintext/Markdown docs/01-prerequisites.md]*
 
 ## 📥 ขั้นตอนการติดตั้งและตั้งค่า
 
